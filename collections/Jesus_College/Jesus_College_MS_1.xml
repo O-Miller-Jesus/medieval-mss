@@ -54,20 +54,98 @@
                   <msItem xml:id="Jesus_College_MS_1-item1" n="1">
                       <author key="person_10428840">John Mirk</author>
                       <title key="work_2745">Manuale sacerdotis</title>
+                     
+                     <rubric><locus>fol. 1r</locus>
+                        Incipit prefatio libelli qui dicitur manuale sacerdotis.
+                     </rubric>
+                     <incipit> 
+                        Amico suo karissimo domino Iohanni de S. uicario de A. frater Iohannes dictus prior de L[ileshul] salutem in auctore salutis. Ex uerbis domini saluatoris …
+                     </incipit>
+                     <explicit><locus>fol. 2v</locus>
+                        ac perducunt ad laborem perpetuum. 
+                     </explicit>
+                     <finalRubric>
+                        Explicit prefatio.
+                     </finalRubric>
+                     
+                     <rubric><locus>fol. 2v</locus>
+                        Incipit prima pars huius libelli De eo quod sacerdos qui immaculatus ordines suos recipit per uiam salutis ad regnum tendit.
+                     </rubric> 
+                     <incipit><locus>fol. 3r</locus>   
+                        Inter melliflua sancti psalterii cantica tangens cordam 
+                     </incipit>
+                     <explicit><locus>fol. 129v</locus>
+                        ad laudem et gloriam domini nostri Ihesu Christi. Cui est honor et gloria per infinita seculorum secula. Amen.
+                     </explicit>
+                     <finalRubric>
+                        Explicit libellus dictus manuale sacerdotis secundum Iohannem Marcus priorem abathiae de Lilyshel.
+                     </finalRubric>
+                     
+                     <rubric><locus>fol. 130r</locus>
+                        Hec est tabula istius libri Capitula prime partis huius libelli.
+                     </rubric>
+                     <incipit> 
+                        1. Quod sacerdos qui ordines suos immaculatus recipit per uiam salutis ad regnum tendit. …
+                     </incipit>
+                     <explicit><locus>fol. 132v</locus>
+                        .20. De contemplatione celestium gaudiorum. 
+                     </explicit>
+                     <finalRubric>
+                        Explicit tabula totius libri qui dicitur manuale sacerdotis.
+                     </finalRubric>
+                     
+                     <note>ed. J. M. Girsch, PhD diss. (Toronto 1990); Bloomfield 2787; A. J. Fletcher, ‘The manuscripts of John Mirk’s Manuale sacerdotis’, Leeds Studies in English, new ser. 19 (1988), pp. 105–39; Sharpe, Latin Writers; DNB.</note>
+                     <note>fols. 133r–134v and endleaves (now fols. 135–137) blank, sporadic notes and pentrials in several hands from 134v onwards</note>
+                  
                   </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="perg">
                         <support>parchment</support>
+                        <extent>135+iii<dimensions type="leaf" unit="mm">
+                             <height>135</height>
+                             <width>100</width>
+                          </dimensions>
+                          <dimensions type="written" unit="mm">
+                             <height>85</height>
+                             <width>65</width>
+                          </dimensions>
+                           <note>Moderately trimmed.</note>
+                        </extent>
+                        <foliation>Foliation in modern pencil on the upper right corner from 1 to 137, skipping a folio between 94 and 95 and counting the endleaves.</foliation>
+                        <collation>
+                           <formula>1–16<hi rend="superscript">8</hi> 17<hi rend="superscript">8 wants 7</hi> + z<hi rend="superscript">4</hi> (wants 4)</formula>
+                           <signatures>Quire signatures, denoting the quire and folio respectively (e.g. ‘a3’), in the first four leaves of quires 1–12 and then sporadically at the lower right corner.</signatures>
+                           <catchwords>Catchwords at the bottom right hand of the each final verso.</catchwords>
+                        </collation>
                      </supportDesc>
+                     <layoutDesc>
+                        <layout>18 long lines. Pricked in the outer margins, ruled in crayon.</layout>
+                     </layoutDesc>
                   </objectDesc>
+                  <handDesc>
+                     <handNote>A single medium-quality <term>anglicana formata</term> hand of s. xv2. </handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote>Blue initials with typical red flourishes. Small capitals in text are sometimes highlighted in red.</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding notBefore="1400" notAfter="1500">
+                        <p>s. xv, 
+                           leather on boards, sewn on three raised bands, no endbands. Holes for two catch plates in the bottom cover.</p>
+                     </binding>
+                  </bindingDesc>
                </physDesc>
                <history>
                   <origin>
                      <origDate notBefore="1400" notAfter="1410" calendar="Gregorian">15th century, early</origDate>
                   </origin>
-                  <provenance><persName role="fmo" key="person_3006 ">Vaughan, Hugh, 16th century</persName></provenance>
+                  <provenance notAfter="1500" notBefore="1400" cert="low">PRESSMARKS pastedown: <q type="pressmark">number I manual[e] sacerdotis</q> (paper, s. xv?? ); fol. 1: <q type="pressmark">‘37’</q> (s. xv??); <q type="pressmark">‘Num. I’</q> (s. xv??); <q type="pressmark">‘(80)’</q> (s. xv??).</provenance>
+                  <provenance notAfter="2000" notBefore="1600">PRESSMARKS spine: <q type="pressmark">‘J. Arch. S–J’</q> (paper label, s. xvii); <q type="pressmark">‘MS. Jesus Coll. Ox. F. 1.’</q> (paper label, s. xx).</provenance>
+                  <provenance>The following names are recorded: ‘<persName role="fmo" key="person_3006 ">Hugh Vaughan</persName>’ (fol. 1r, <hi rend="italic">s.</hi> xvi); ‘R. ap Morgan’ (fol. 45v, <hi rend="italic">s.</hi> xvi); ‘William David Morgan is the true owner of this booke’ (fol. 104r, <hi rend="italic">s.</hi> xvii, cancelled); ‘Liber Domini David’ (fol. iii’r, <hi rend="italic">s.</hi> xv<hi rend="superscript">2</hi> × xvi<hi rend="superscript">1</hi>); ‘The above wryttyng is the hand of William Jankyn’ (fol. ii’<hi rend="superscript">v</hi>, <hi rend="italic">s.</hi> xvi); secundo folio habere sanctam</provenance>
+                  <provenance>The medieval owner, ‘dominus David’ cannot be identified.</provenance>
+                  <acquisition>The manuscript had entered the College by 1649 as it appears in Mansell’s account as ‘Liber Collectionum – Manuale Sacerdotis’ (Jesus College Archives, College Register of Dr F. Mansell, 1649, p. 11.). The transfer probably happened not much before that year because the seventeenth-century individuals in inscriptions are not recorded in J. Foster, The Members of the University of Oxford 1500–1714 (Oxford, 1891–2). The names hint that the book came into the possession of the College from Wales.</acquisition>
                </history>
                <additional>
                   <adminInfo>
